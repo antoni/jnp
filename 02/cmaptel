@@ -1,0 +1,10 @@
+#ifdef __cplusplus
+  namespace jnp1 {
+#endif
+
+    #include "maptel.h"
+
+#ifdef __cplusplus
+  }
+#endif
+
